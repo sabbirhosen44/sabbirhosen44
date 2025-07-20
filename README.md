@@ -190,13 +190,13 @@
 
 <p align="center">
   <!-- First Row: Top Languages and GitHub Stats side by side -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=md-sabbirhosen&show_icons=true&locale=en&layout=compact&hide_border=false&border_color=grey" alt="Top Languages" width="48%" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api?username=md-sabbirhosen&show_icons=true&locale=en&hide_border=false&border_color=grey" alt="GitHub Stats" width="48%" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabbirhosen44&show_icons=true&locale=en&layout=compact&hide_border=false&border_color=grey" alt="Top Languages" width="48%" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sabbirhosen44&show_icons=true&locale=en&hide_border=false&border_color=grey" alt="GitHub Stats" width="48%" height="200" />
 </p>
 
 <p align="center">
   <!-- Second Row: GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-sabbirhosen&hide_border=false&border_color=grey" alt="GitHub Streak" width="96%" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirhosen44&hide_border=false&border_color=grey" alt="GitHub Streak" width="96%" height="200" />
 </p>
 
 <p align="center">
