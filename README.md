@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 About Me:
-- 🌱 Currently learning **TypeScript, React Query, and Dynamic Programming.**
+- 🌱 Currently learning **FastAPI, Microservice Architecture, PostgreSQL**
 - 💬 Ask me about **React.js, Node.js, and Data Structure & Algorithms.**
 - 📫 Reach me at: **mdsabbirhosen926@gmail.com**
 
