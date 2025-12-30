@@ -12,7 +12,7 @@
   <a href="https://github.com/sabbirhosen44"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Scalable+Web+Applications+%F0%9F%8C%90;Passionate+About+Clean+Code+%E2%9C%A8;500%2B+Problems+Solved+%F0%9F%92%AA;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Scalable+Web+Applications+%F0%9F%8C%90;Passionate+About+Clean+Code+%E2%9C%A8;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -33,19 +33,20 @@ const sabbir = {
     pronouns: "He" | "Him",
     location: "📍 Patuakhali, Bangladesh",
     education: "🎓 B.Sc. in CSE @ PSTU",
-    cgpa: "3.37/4.0",
     
-    currentlyLearning: [
-        "FastAPI 🐍",
-        "Microservices Architecture 🏗️",
-        "PostgreSQL 🐘"
-    ],
+currentlyLearning: [
+  "Microservices Architecture 🏗️",
+  "PostgreSQL 🐘",
+  "Redis ⚡",
+  "RabbitMQ 🐇"
+]
+
     
     expertise: [
         "Full-Stack Development",
         "RESTful API Design",
         "Database Architecture",
-        "Cloud Deployment"
+        "Problem Solving"
     ],
     
     askMeAbout: [
@@ -63,11 +64,9 @@ const sabbir = {
 
 <br clear="right"/>
 
-- 🔭 Currently working on **Web-based IDE** and **E-commerce platforms**
 - 🌱 Exploring **Microservices** and **Cloud Architecture**
 - 💡 Love to learn about **new technologies** and **best practices**
-- 🎯 2025 Goals: Master **System Design** & contribute more to **Open Source**
-- ⚡ Fun fact: I've solved **500+ coding problems** across multiple platforms!
+- 🎯 2026 Goals: Master **System Design** & contribute more to **Open Source**
 
 ---
 
