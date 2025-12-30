@@ -321,44 +321,17 @@ const sabbir = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sabbirhosen44/sabbirhosen44/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sabbirhosen44/sabbirhosen44/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sabbirhosen44/sabbirhosen44/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sabbirhosen44/sabbirhosen44/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sabbirhosen44/sabbirhosen44/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sabbirhosen44/sabbirhosen44/output/github-snake.svg">
 </picture>
 
+<br/><br/>
+
+<!-- Optional: Ocean themed animated version -->
+<img alt="github contribution ocean animation" src="https://raw.githubusercontent.com/sabbirhosen44/sabbirhosen44/output/ocean.gif">
+
 </div>
-
-<!--
-To enable the snake animation, create a .github/workflows/snake.yml file with the following content:
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: sabbirhosen44
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
 
 ---
 
