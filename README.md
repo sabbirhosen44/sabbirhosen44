@@ -70,314 +70,129 @@ const sabbir = {
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **Tech Stack & Tools**
+# 💻 Tech Stack & Tools
+<div align="center">
 
 <div align="center">
 
-### 🎯 **Core Languages**
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> PROGRAMMING LANGUAGES
 
-<table>
-  <tr>
-    <td align="center" width="200" height="80">
-      <div style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
-        <h4 style="margin: 0 0 0 10px;">C</h4>
-      </div>
-    </td>
-    <td align="center" width="200" height="80">
-      <div style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
-        <h4 style="margin: 0 0 0 10px;">C++</h4>
-      </div>
-    </td>
-    <td align="center" width="200" height="80">
-      <div style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-        <h4 style="margin: 0 0 0 10px;">Java</h4>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200" height="80">
-      <div style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-        <h4 style="margin: 0 0 0 10px;">JavaScript</h4>
-      </div>
-    </td>
-    <td align="center" width="200" height="80">
-      <div style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
-        <h4 style="margin: 0 0 0 10px;">TypeScript</h4>
-      </div>
-    </td>
-    <td align="center" width="200" height="80">
-      <div style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-        <h4 style="margin: 0 0 0 10px;">Python</h4>
-      </div>
-    </td>
-  </tr>
-</table>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🎨 **Frontend Development**
+</div>
 
-<table>
-  <tr>
-    <td align="center" width="200" height="80">
-      <div style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
-        <h4 style="margin: 0 0 0 10px;">HTML5</h4>
-      </div>
-    </td>
-    <td align="center" width="200" height="80">
-      <div style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-        <h4 style="margin: 0 0 0 10px;">CSS3</h4>
-      </div>
-    </td>
-    <td align="center" width="200" height="80">
-      <div style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
-        <h4 style="margin: 0 0 0 10px;">React</h4>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200" height="80">
-      <div style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
-        <h4 style="margin: 0 0 0 10px;">Next.js</h4>
-      </div>
-    </td>
-    <td align="center" width="200" height="80">
-      <div style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" alt="Redux" />
-        <h4 style="margin: 0 0 0 10px;">Redux</h4>
-      </div>
-    </td>
-    <td align="center" width="200" height="80">
-      <div style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS" />
-        <h4 style="margin: 0 0 0 10px;">Tailwind CSS</h4>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200" height="80">
-      <div style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" alt="SASS" />
-        <h4 style="margin: 0 0 0 10px;">SASS</h4>
-      </div>
-    </td>
-    <td align="center" width="200" height="80">
-      <div style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" />
-        <h4 style="margin: 0 0 0 10px;">Bootstrap</h4>
-      </div>
-    </td>
-    <td align="center" width="200" height="80">
-      <div style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40" height="40" alt="Vite" />
-        <h4 style="margin: 0 0 0 10px;">Vite</h4>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200" height="80">
-      <div style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="40" height="40" alt="Webpack" />
-        <h4 style="margin: 0 0 0 10px;">Webpack</h4>
-      </div>
-    </td>
-    <td align="center" width="200" height="80">
-      <div style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" width="40" height="40" alt="Framer Motion" />
-        <h4 style="margin: 0 0 0 10px;">Framer Motion</h4>
-      </div>
-    </td>
-    <td align="center" width="200" height="80">
-      <div style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://www.chartjs.org/img/chartjs-logo.svg" width="40" height="40" alt="Chart.js" />
-        <h4 style="margin: 0 0 0 10px;">Chart.js</h4>
-      </div>
-    </td>
-  </tr>
-</table>
+---
 
-### ⚙️ **Backend Development**
+<div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="200" height="80">
-      <div style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
-        <h4 style="margin: 0 0 0 10px;">Node.js</h4>
-      </div>
-    </td>
-    <td align="center" width="200" height="80">
-      <div style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js" />
-        <h4 style="margin: 0 0 0 10px;">Express.js</h4>
-      </div>
-    </td>
-    <td align="center" width="200" height="80">
-      <div style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI" />
-        <h4 style="margin: 0 0 0 10px;">FastAPI</h4>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200" height="80">
-      <div style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" width="40" height="40" alt="JWT" />
-        <h4 style="margin: 0 0 0 10px;">JWT</h4>
-      </div>
-    </td>
-    <td align="center" width="200" height="80">
-      <div style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40" alt="GraphQL" />
-        <h4 style="margin: 0 0 0 10px;">GraphQL</h4>
-      </div>
-    </td>
-    <td align="center" width="200" height="80">
-      <div style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40" alt="Nginx" />
-        <h4 style="margin: 0 0 0 10px;">Nginx</h4>
-      </div>
-    </td>
-  </tr>
-</table>
+## 🎨 FRONTEND DEVELOPMENT
 
-### 🗄️ **Databases**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 
-<table>
-  <tr>
-    <td align="center" width="200" height="80">
-      <div style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
-        <h4 style="margin: 0 0 0 10px;">MongoDB</h4>
-      </div>
-    </td>
-    <td align="center" width="200" height="80">
-      <div style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
-        <h4 style="margin: 0 0 0 10px;">MySQL</h4>
-      </div>
-    </td>
-    <td align="center" width="200" height="80">
-      <div style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
-        <h4 style="margin: 0 0 0 10px;">PostgreSQL</h4>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200" height="80">
-      <div style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" />
-        <h4 style="margin: 0 0 0 10px;">Redis</h4>
-      </div>
-    </td>
-    <td align="center" width="200" height="80">
-      <div style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase" />
-        <h4 style="margin: 0 0 0 10px;">Firebase</h4>
-      </div>
-    </td>
-    <td align="center" width="200" height="80">
-      <div style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" height="40" alt="Supabase" />
-        <h4 style="margin: 0 0 0 10px;">Supabase</h4>
-      </div>
-    </td>
-  </tr>
-</table>
+</div>
 
-### 🛠️ **Tools & Platforms**
+---
 
-<table>
-  <tr>
-    <td align="center" width="200" height="80">
-      <div style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-        <h4 style="margin: 0 0 0 10px;">Git</h4>
-      </div>
-    </td>
-    <td align="center" width="200" height="80">
-      <div style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
-        <h4 style="margin: 0 0 0 10px;">GitHub</h4>
-      </div>
-    </td>
-    <td align="center" width="200" height="80">
-      <div style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
-        <h4 style="margin: 0 0 0 10px;">Docker</h4>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200" height="80">
-      <div style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" alt="Postman" />
-        <h4 style="margin: 0 0 0 10px;">Postman</h4>
-      </div>
-    </td>
-    <td align="center" width="200" height="80">
-      <div style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
-        <h4 style="margin: 0 0 0 10px;">Figma</h4>
-      </div>
-    </td>
-    <td align="center" width="200" height="80">
-      <div style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
-        <h4 style="margin: 0 0 0 10px;">Linux</h4>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200" height="80">
-      <div style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
-        <h4 style="margin: 0 0 0 10px;">VS Code</h4>
-      </div>
-    </td>
-    <td align="center" width="200" height="80">
-      <div style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" alt="Azure" />
-        <h4 style="margin: 0 0 0 10px;">Azure</h4>
-      </div>
-    </td>
-    <td align="center" width="200" height="80">
-      <div style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40" alt="Vercel" />
-        <h4 style="margin: 0 0 0 10px;">Vercel</h4>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200" height="80">
-      <div style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="40" height="40" alt="Netlify" />
-        <h4 style="margin: 0 0 0 10px;">Netlify</h4>
-      </div>
-    </td>
-    <td align="center" width="200" height="80">
-      <div style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="40" height="40" alt="Cloudflare" />
-        <h4 style="margin: 0 0 0 10px;">Cloudflare</h4>
-      </div>
-    </td>
-    <td align="center" width="200" height="80">
-      <div style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" alt="NPM" />
-        <h4 style="margin: 0 0 0 10px;">NPM</h4>
-      </div>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+## ⚙️ BACKEND & SERVER
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🗄️ DATABASES & CLOUD STORAGE
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🛠️ DEVELOPMENT TOOLS
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+## ☁️ CLOUD & DEPLOYMENT
+
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 SKILL PROFICIENCY
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8FFF&icon_color=3F8FFF&text_color=C9D1D9" alt="Top Languages" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```text
+Frontend Development    ████████████████████░  85%
+Backend Development     ███████████████░░░░░░  75%
+Database Management     ██████████████░░░░░░░  70%
+DevOps & Deployment     ████████████░░░░░░░░░  60%
+```
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
 
 </div>
 
