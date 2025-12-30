@@ -78,29 +78,43 @@ const sabbir = {
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-      <br><b>C</b>
+    <td align="center" width="200" height="80">
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
+        <h4 style="margin: 0 0 0 10px;">C</h4>
+      </div>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-      <br><b>C++</b>
+    <td align="center" width="200" height="80">
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
+        <h4 style="margin: 0 0 0 10px;">C++</h4>
+      </div>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br><b>JavaScript</b>
+    <td align="center" width="200" height="80">
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+        <h4 style="margin: 0 0 0 10px;">Java</h4>
+      </div>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-      <br><b>TypeScript</b>
+  </tr>
+  <tr>
+    <td align="center" width="200" height="80">
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+        <h4 style="margin: 0 0 0 10px;">JavaScript</h4>
+      </div>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br><b>Python</b>
+    <td align="center" width="200" height="80">
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+        <h4 style="margin: 0 0 0 10px;">TypeScript</h4>
+      </div>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-      <br><b>PHP</b>
+    <td align="center" width="200" height="80">
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+        <h4 style="margin: 0 0 0 10px;">Python</h4>
+      </div>
     </td>
   </tr>
 </table>
@@ -109,55 +123,83 @@ const sabbir = {
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br><b>HTML5</b>
+    <td align="center" width="200" height="80">
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+        <h4 style="margin: 0 0 0 10px;">HTML5</h4>
+      </div>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-      <br><b>CSS3</b>
+    <td align="center" width="200" height="80">
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+        <h4 style="margin: 0 0 0 10px;">CSS3</h4>
+      </div>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br><b>React</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-      <br><b>Next.js</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
-      <br><b>Redux</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-      <br><b>Tailwind</b>
+    <td align="center" width="200" height="80">
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
+        <h4 style="margin: 0 0 0 10px;">React</h4>
+      </div>
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="SASS" />
-      <br><b>SASS</b>
+    <td align="center" width="200" height="80">
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
+        <h4 style="margin: 0 0 0 10px;">Next.js</h4>
+      </div>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" width="48" height="48" alt="Framer" />
-      <br><b>Framer</b>
+    <td align="center" width="200" height="80">
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" alt="Redux" />
+        <h4 style="margin: 0 0 0 10px;">Redux</h4>
+      </div>
     </td>
-    <td align="center" width="96">
-      <img src="https://www.chartjs.org/img/chartjs-logo.svg" width="48" height="48" alt="Chart.js" />
-      <br><b>Chart.js</b>
+    <td align="center" width="200" height="80">
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS" />
+        <h4 style="margin: 0 0 0 10px;">Tailwind CSS</h4>
+      </div>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-      <br><b>Bootstrap</b>
+  </tr>
+  <tr>
+    <td align="center" width="200" height="80">
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" alt="SASS" />
+        <h4 style="margin: 0 0 0 10px;">SASS</h4>
+      </div>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
-      <br><b>Vite</b>
+    <td align="center" width="200" height="80">
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" />
+        <h4 style="margin: 0 0 0 10px;">Bootstrap</h4>
+      </div>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=webpack" width="48" height="48" alt="Webpack" />
-      <br><b>Webpack</b>
+    <td align="center" width="200" height="80">
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40" height="40" alt="Vite" />
+        <h4 style="margin: 0 0 0 10px;">Vite</h4>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200" height="80">
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="40" height="40" alt="Webpack" />
+        <h4 style="margin: 0 0 0 10px;">Webpack</h4>
+      </div>
+    </td>
+    <td align="center" width="200" height="80">
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" width="40" height="40" alt="Framer Motion" />
+        <h4 style="margin: 0 0 0 10px;">Framer Motion</h4>
+      </div>
+    </td>
+    <td align="center" width="200" height="80">
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="https://www.chartjs.org/img/chartjs-logo.svg" width="40" height="40" alt="Chart.js" />
+        <h4 style="margin: 0 0 0 10px;">Chart.js</h4>
+      </div>
     </td>
   </tr>
 </table>
@@ -166,29 +208,43 @@ const sabbir = {
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br><b>Node.js</b>
+    <td align="center" width="200" height="80">
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+        <h4 style="margin: 0 0 0 10px;">Node.js</h4>
+      </div>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-      <br><b>Express</b>
+    <td align="center" width="200" height="80">
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js" />
+        <h4 style="margin: 0 0 0 10px;">Express.js</h4>
+      </div>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" />
-      <br><b>FastAPI</b>
+    <td align="center" width="200" height="80">
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI" />
+        <h4 style="margin: 0 0 0 10px;">FastAPI</h4>
+      </div>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" width="48" height="48" alt="JWT" />
-      <br><b>JWT</b>
+  </tr>
+  <tr>
+    <td align="center" width="200" height="80">
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" width="40" height="40" alt="JWT" />
+        <h4 style="margin: 0 0 0 10px;">JWT</h4>
+      </div>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
-      <br><b>GraphQL</b>
+    <td align="center" width="200" height="80">
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40" alt="GraphQL" />
+        <h4 style="margin: 0 0 0 10px;">GraphQL</h4>
+      </div>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
-      <br><b>Nginx</b>
+    <td align="center" width="200" height="80">
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40" alt="Nginx" />
+        <h4 style="margin: 0 0 0 10px;">Nginx</h4>
+      </div>
     </td>
   </tr>
 </table>
@@ -197,29 +253,43 @@ const sabbir = {
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br><b>MongoDB</b>
+    <td align="center" width="200" height="80">
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
+        <h4 style="margin: 0 0 0 10px;">MongoDB</h4>
+      </div>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <br><b>MySQL</b>
+    <td align="center" width="200" height="80">
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
+        <h4 style="margin: 0 0 0 10px;">MySQL</h4>
+      </div>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
-      <br><b>PostgreSQL</b>
+    <td align="center" width="200" height="80">
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
+        <h4 style="margin: 0 0 0 10px;">PostgreSQL</h4>
+      </div>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      <br><b>Redis</b>
+  </tr>
+  <tr>
+    <td align="center" width="200" height="80">
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" />
+        <h4 style="margin: 0 0 0 10px;">Redis</h4>
+      </div>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-      <br><b>Firebase</b>
+    <td align="center" width="200" height="80">
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase" />
+        <h4 style="margin: 0 0 0 10px;">Firebase</h4>
+      </div>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
-      <br><b>Supabase</b>
+    <td align="center" width="200" height="80">
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" height="40" alt="Supabase" />
+        <h4 style="margin: 0 0 0 10px;">Supabase</h4>
+      </div>
     </td>
   </tr>
 </table>
@@ -228,55 +298,83 @@ const sabbir = {
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br><b>Git</b>
+    <td align="center" width="200" height="80">
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+        <h4 style="margin: 0 0 0 10px;">Git</h4>
+      </div>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      <br><b>GitHub</b>
+    <td align="center" width="200" height="80">
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+        <h4 style="margin: 0 0 0 10px;">GitHub</h4>
+      </div>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br><b>Docker</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br><b>Postman</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-      <br><b>Figma</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br><b>Linux</b>
+    <td align="center" width="200" height="80">
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+        <h4 style="margin: 0 0 0 10px;">Docker</h4>
+      </div>
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-      <br><b>VS Code</b>
+    <td align="center" width="200" height="80">
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" alt="Postman" />
+        <h4 style="margin: 0 0 0 10px;">Postman</h4>
+      </div>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
-      <br><b>Azure</b>
+    <td align="center" width="200" height="80">
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
+        <h4 style="margin: 0 0 0 10px;">Figma</h4>
+      </div>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
-      <br><b>Vercel</b>
+    <td align="center" width="200" height="80">
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
+        <h4 style="margin: 0 0 0 10px;">Linux</h4>
+      </div>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" />
-      <br><b>Netlify</b>
+  </tr>
+  <tr>
+    <td align="center" width="200" height="80">
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
+        <h4 style="margin: 0 0 0 10px;">VS Code</h4>
+      </div>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" />
-      <br><b>Cloudflare</b>
+    <td align="center" width="200" height="80">
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" alt="Azure" />
+        <h4 style="margin: 0 0 0 10px;">Azure</h4>
+      </div>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="NPM" />
-      <br><b>NPM</b>
+    <td align="center" width="200" height="80">
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40" alt="Vercel" />
+        <h4 style="margin: 0 0 0 10px;">Vercel</h4>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200" height="80">
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="40" height="40" alt="Netlify" />
+        <h4 style="margin: 0 0 0 10px;">Netlify</h4>
+      </div>
+    </td>
+    <td align="center" width="200" height="80">
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="40" height="40" alt="Cloudflare" />
+        <h4 style="margin: 0 0 0 10px;">Cloudflare</h4>
+      </div>
+    </td>
+    <td align="center" width="200" height="80">
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" alt="NPM" />
+        <h4 style="margin: 0 0 0 10px;">NPM</h4>
+      </div>
     </td>
   </tr>
 </table>
