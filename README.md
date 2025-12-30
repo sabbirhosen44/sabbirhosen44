@@ -12,9 +12,8 @@
   <a href="https://github.com/sabbirhosen44"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Scalable+Web+Applications+%F0%9F%8C%90;Passionate+About+Clean+Code+%E2%9C%A8;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=Building+Scalable+Web+Applications+%F0%9F%8C%90;Passionate+About+Clean+Code+%E2%9C%A8;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
 
-<br/>
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sabbirhosen44&label=Profile%20Views&color=blueviolet&style=for-the-badge)
@@ -364,11 +363,11 @@ const sabbir = {
 
 ## 📫 **Let's Connect & Collaborate!**
 
-<!-- <div align="center">
+ <div align="center">
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<!-- <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" /> -->
 
-<br/> -->
+<br/>
 
 ### 🌟 **"Code is like humor. When you have to explain it, it's bad!"** 🌟
 
