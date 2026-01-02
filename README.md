@@ -202,27 +202,9 @@ DevOps & Deployment     ████████████░░░░░░�
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sabbirhosen44&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Sabbir's GitHub Stats" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirhosen44&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00b3ff&fire=00b3ff&currStreakLabel=00b3ff" alt="GitHub Streak" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbirhosen44&layout=compact&hide_border=true&title_color=00b3ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
-
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sabbirhosen44&bg_color=0d1117&color=00b3ff&line=00b3ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-
-</div>
-
-<br/>
-
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=sabbirhosen44&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=sabbirhosen44&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+</p>
 
 </div>
 
