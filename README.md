@@ -257,29 +257,3 @@ DevOps & Deployment     ████████████░░░░░░�
 </div>
 
 ---
-
-## 📫 **Let's Connect & Collaborate!**
-
- <div align="center">
-
-<!-- <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" /> -->
-
-<br/>
-
-### 🌟 **"Code is like humor. When you have to explain it, it's bad!"** 🌟
-
-<br/>
-
-<a href="https://www.linkedin.com/in/sabbirhosen44/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:mdsabbirhosen926@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://sabbirhosen.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_Now-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
-<br/><br/>
-
-</div>
