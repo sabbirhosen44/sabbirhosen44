@@ -171,8 +171,6 @@ const sabbir = {
 
 ## 📊 SKILL PROFICIENCY
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8FFF&icon_color=3F8FFF&text_color=C9D1D9" alt="Top Languages" />
-
 </div>
 
 <br/>
@@ -203,7 +201,11 @@ DevOps & Deployment     ████████████░░░░░░�
 <div align="center">
   
 <p align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=sabbirhosen44&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabbirhosen44&show_icons=true&locale=en&layout=compact" alt="sabbirhosen44" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabbirhosen44&show_icons=true&locale=en" alt="sabbirhosen44" /></p>
+
+<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sabbirhosen44&theme=github" alt="sabbirhosen44" /></p>
 </p>
 
 </div>
@@ -279,18 +281,5 @@ DevOps & Deployment     ████████████░░░░░░�
 </a>
 
 <br/><br/>
-
-### 💼 **Open for opportunities in:**
-**Full-Stack Development** • **Backend Engineering** • **Cloud Solutions** • **Freelance Projects**
-
-<br/>
-
-### ⭐ **If you find my work interesting, consider starring some repositories!**
-
-<br/>
-
-</div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling)
 
 </div>
